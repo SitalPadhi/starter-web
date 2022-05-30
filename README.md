@@ -14,3 +14,5 @@ Sample website with plenty of files for
 deployment
 
 ## How To Contribute
+
+Please fork this repository.
